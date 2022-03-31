@@ -4,6 +4,8 @@ This project is a few years old but is certainly still interesting too me. I wro
 
 This implementation uses JavaScript and an HTML canvas which is much faster than SVG.  My original was writtn using an SVG, but this one is much faster using the HTML canvas.
 
+Check out the embedded JavaScript in the HTML file. 
+
 ![image](https://user-images.githubusercontent.com/5507643/150658841-1deba9cc-b3a4-4ad5-8bb1-d1d3f29a025c.png)
 
 
