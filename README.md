@@ -6,7 +6,11 @@ This implementation uses JavaScript and an HTML canvas which is much faster than
 
 Check out the embedded JavaScript in the HTML file. 
 
+Viewing the HTML file.
+
 ![image](https://user-images.githubusercontent.com/5507643/150658841-1deba9cc-b3a4-4ad5-8bb1-d1d3f29a025c.png)
+
+The source code.
 
 ```JavaScript
            var colors = [
